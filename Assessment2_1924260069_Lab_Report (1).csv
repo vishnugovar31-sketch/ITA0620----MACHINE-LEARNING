@@ -1,0 +1,13 @@
+Problem ID,Problem Title,Step,Submitted Output,Expected Key,Points Awarded,Max Points,Status
+"DT_04","Decision Tree: Credit Card Churn Risk Classification","Total Entropy H(S)","0.954","0.954",6,6,"CORRECT"
+"DT_04","Decision Tree: Credit Card Churn Risk Classification","Information Gain of SupportTickets","0.268","0.268",8,8,"CORRECT"
+"DT_04","Decision Tree: Credit Card Churn Risk Classification","Information Gain of TransactionFreq","0.165","0.165",8,8,"CORRECT"
+"DT_04","Decision Tree: Credit Card Churn Risk Classification","Root Node Attribute","SupportTickets","SupportTickets",5,5,"CORRECT"
+"FS_03","Find-S: ICU Emergency Triage Infection Risk Monitor","Initial Specific Hypothesis (h0)","phi, phi, phi, phi, phi","phi, phi, phi, phi, phi",5,5,"CORRECT"
+"FS_03","Find-S: ICU Emergency Triage Infection Risk Monitor","Hypothesis after 2nd Positive Instance","High, ?, Severe, ?, Elevated","High, ?, Severe, ?, Elevated",7,7,"CORRECT"
+"FS_03","Find-S: ICU Emergency Triage Infection Risk Monitor","Final Maximally Specific Hypothesis","High, ?, Severe, ?, Elevated","High, ?, Severe, ?, Elevated",10,10,"CORRECT"
+"FS_03","Find-S: ICU Emergency Triage Infection Risk Monitor","Test Patient Prediction","yes","Yes",3,3,"CORRECT"
+"CE_04","Candidate Elimination: High-Performance Engine Tuning","S Boundary after Sample 2","98Ron, ?, Advanced, High","98Ron, ?, Advanced, High",6,6,"CORRECT"
+"CE_04","Candidate Elimination: High-Performance Engine Tuning","General Boundary G Candidates from Negative Sample","FuelOctane=98Ron,coolantflow=High","FuelOctane=98Ron, CoolantFlow=High",8,8,"CORRECT"
+"CE_04","Candidate Elimination: High-Performance Engine Tuning","Final S Boundary","98Ron, ?, ?,High","98Ron, ?, ?, High",8,8,"CORRECT"
+"CE_04","Candidate Elimination: High-Performance Engine Tuning","Count of Hypotheses in G","2","2",3,3,"CORRECT"
